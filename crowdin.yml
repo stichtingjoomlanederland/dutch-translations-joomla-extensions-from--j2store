@@ -1,0 +1,6 @@
+files:
+  - source: /**/en-GB/**/en-GB*.ini
+    translation: /**/%locale%/**/%locale%%original_file_name%
+    update_option: update_as_unapproved
+    translation_replace:
+      en-GB: ''
